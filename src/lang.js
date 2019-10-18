@@ -6,6 +6,9 @@ const lang = idiom({
   },
   'pt-BR': {
     'welcome': 'Bem vindo ao Phaser + ES6 + Webpack!'
+  },
+  'es-ES': {
+    'welcome': 'Bienvenido a Phaser + ES6 + Webpack!'
   }
 })
 
